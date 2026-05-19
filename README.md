@@ -5,6 +5,7 @@
 A full end-to-end product strategy concept for Bose, built using AI as a strategic intelligence tool. The project moves from raw market data and customer interviews through AI-powered analysis to a fully developed product concept, competitive positioning, and a live interactive landing page.
 
 **Live Landing Page:** [aura-shift-luxury-drop.lovable.app](https://aura-shift-luxury-drop.lovable.app)
+
 **Strategic Presentation:** [Bose_Aura-Shift_Strategy.pdf](https://github.com/Natchaponsor/new-bose-product-concept/blob/main/Bose_Aura-Shift_Strategy.pdf)
 
 ---
