@@ -6,7 +6,7 @@ A full end-to-end product strategy concept for Bose, built using AI as a strateg
 
 **Live Landing Page:** [aura-shift-luxury-drop.lovable.app](https://aura-shift-luxury-drop.lovable.app)
 
-**Strategic Presentation:** [Bose_Aura-Shift_Strategy.pdf](https://github.com/Natchaponsor/new-bose-product-concept/blob/main/Bose_Aura-Shift_Strategy.pdf) "(AI Generated)"
+**Strategic Presentation:** [Bose_Aura-Shift_Strategy.pdf](https://github.com/Natchaponsor/new-bose-product-concept/blob/main/Bose_Aura-Shift_Strategy.pdf) (AI Generated)
 
 ---
 
